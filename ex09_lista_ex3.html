@@ -1,0 +1,21 @@
+<script>
+// Entre com 4 variáveis, some mais 5 em cada uma delas e imprima as 4 variáveis.
+let var1 = prompt("Digite o valor da variável 1:");
+let var2 = prompt("Digite o valor da variável 2:");
+let var3 = prompt("Digite o valor da variável 3:");
+let var4 = prompt("Digite o valor da variável 4:");
+
+const somaCinco = (x, y, z, w) => {
+	x = parseInt(x) + 5;
+    y = parseInt(y) + 5;
+    z = parseInt(z) + 5;
+    w = parseInt(w) + 5;
+    return [x,y,z,w];
+}
+
+const [x,y,z,w] = somaCinco(var1, var2, var3, var4);
+alert("Soma da variável 1: " + x);
+alert("Soma da variável 2: " + y);
+alert("Soma da variável 3: " + z);
+alert("Soma da variável 4: " + w);
+</script>
