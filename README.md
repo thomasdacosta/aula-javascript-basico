@@ -1,6 +1,6 @@
 # Senac Javascript Basico
 
-Repositório com programas básicos para a aula de React Native
+Conceitos básicos de Javascript para a aula de React Native
 
 ---
 
