@@ -20,3 +20,6 @@ let x = 9e3;
 let y = 123e-5;
 console.log(x); // -> 9000
 console.log(y); // -> 0.00123
+
+let z = 0x21;
+console.log(z);
