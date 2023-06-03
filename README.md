@@ -1,4 +1,4 @@
-# Senac Javascript Basico
+# Javascript Basico
 
 Conceitos básicos de Javascript para a aula de React Native
 
